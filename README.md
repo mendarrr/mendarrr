@@ -72,9 +72,6 @@
   <img src="https://github-trophies.vercel.app/?username=mendarrr&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width:80%;"/>
 </div>
 
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=mendarrr&icon=6&color=1)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=mendarrr&label=Profile%20Views&color=1&icon=6&pretty=true" />
+</a>
