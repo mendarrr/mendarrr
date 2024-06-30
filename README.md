@@ -59,14 +59,18 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </div>
 
+# 📊 GitHub Stats :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mendarrr&theme=algolia&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width:1900px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mendarrr&theme=algolia&hide_border=true" alt="GitHub Streak Stats" style="width:1900px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendarrr&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width:1900px;"/>
+</div>
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=mendarrr&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mendarrr&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mendarrr&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=mendarrr&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width:80%;"/>
+</div>
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=mendarrr&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
