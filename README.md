@@ -1,5 +1,6 @@
 ![welcomeee](https://github.com/mendarrr/mendarrr/assets/161917456/52802a87-c278-4c69-988a-486b1d7e4f00)
 
+# 💫About Me :
 👋Hey there, I'm Abby. I'm a skilled Full Stack Developer with a proven track record of creating robust and user-friendly applications. My expertise spans both front-end and back-end, ensuring a comprehensive approach to web development.
 
 🚀I have extensive knowledge in both React and JavaScript paired with my exceptional skills which aids in creating high level and proficient websites.
@@ -7,7 +8,6 @@
 🌟I am dedicated to creating innovative and efficient solutions that meet the evolving needs of users and businesses alike.
 
 ## 🌐 Socials
-
 <div align="center">
   <a href="https://behance.net/abbysarah1" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=black" alt="Behance" height="30"/>
@@ -35,10 +35,7 @@
   </a>
 </div>
 
-
-
 ## 💻 Tech Stack
-
 <div align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -69,9 +66,10 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=mendarrr&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width:80%;"/>
+  <img src="https://github-trophies.vercel.app/?username=mendarrr&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width:100%;"/>
 </div>
 
+## 👀 Profile Views
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=mendarrr&label=Profile%20Views&color=1&icon=6&pretty=true" />
 </a>
