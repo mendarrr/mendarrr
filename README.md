@@ -68,7 +68,6 @@
   <img src="https://github-trophies.vercel.app/?username=mendarrr&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="width:100%;"/>
 </div>
 
-## 👀 Profile Views
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=mendarrr&label=Profile%20Views&color=1&icon=6&pretty=true" />
 </a>
