@@ -10,28 +10,28 @@
 ## 🌐 Socials
 <div align="center">
   <a href="https://behance.net/abbysarah1" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=black" alt="Behance"/>
   </a>
   <a href="https://instagram.com/abby._.menda" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=black" alt="Instagram"/>
   </a>
   <a href="https://linkedin.com/in/abby-sarah-6739a92ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
   <a href="https://pinterest.com/mendarrr" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"/>
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=black" alt="Pinterest"/>
   </a>
   <a href="https://quora.com/profile/Abby-Sarah-7" target="_blank">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" alt="Quora"/>
+    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=black" alt="Quora"/>
   </a>
   <a href="https://stackoverflow.com/users/25320734" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=black" alt="Stack Overflow"/>
   </a>
   <a href="https://twitch.tv/mendarrrrrr" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"/>
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=black" alt="Twitch"/>
   </a>
   <a href="https://twitter.com/mendarrrr" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=black" alt="Twitter"/>
   </a>
 </div>
 
