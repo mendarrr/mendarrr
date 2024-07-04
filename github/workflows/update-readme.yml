@@ -1,0 +1,27 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm install readme-jokes
+      - run: |
+          const readmeJokes = require('readme-jokes');
+          const fs = require('fs');
+          const readme = fs.readFileSync('README.md', 'utf8');
+          const newReadme = readme.replace(
+            /<!-- DEV_MEME_SECTION_START -->[\s\S]*?<!-- DEV_MEME_SECTION_END -->/,
+            `<!-- DEV_MEME_SECTION_START -->\n${readmeJokes.getRandomJoke()}\n<!-- DEV_MEME_SECTION_END -->`
+          );
+          fs.writeFileSync('README.md', newReadme);
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Update README with new dev meme'
