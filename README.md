@@ -1,12 +1,12 @@
 ![welcomeee](https://github.com/mendarrr/mendarrr/assets/161917456/52802a87-c278-4c69-988a-486b1d7e4f00)
-# 💫About Me :
+<h1 align="center">💫About Me</h1>
 👋Hey there, I'm Abby. I'm a skilled Full Stack Developer with a proven track record of creating robust and user-friendly applications. My expertise spans both front-end and back-end, ensuring a comprehensive approach to web development.
 
 🚀I have extensive knowledge in both React and JavaScript paired with my exceptional skills which aids in creating high level and proficient websites.
 
 🌟I am dedicated to creating innovative and efficient solutions that meet the evolving needs of users and businesses alike.
 
-## 🌐 Socials
+<h2 align="center">🌐 Socials</h2>
 <div align="center">
   <a href="https://behance.net/abbysarah1" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=black" alt="Behance" height="30"/>
@@ -34,7 +34,7 @@
   </a>
 </div>
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -56,20 +56,20 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </div>
 
-# 📊 GitHub Stats :
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mendarrr&theme=algolia&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width:1900px;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mendarrr&theme=algolia&hide_border=true" alt="GitHub Streak Stats" style="width:1900px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendarrr&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width:1900px;"/>
 </div>
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=mendarrr&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="width:100%;"/>
 </div>
 
-## 🌟 3D Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mendarrr&bg_color=00203d&color=00a1e6&line=0aadff&point=050505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align="center">🌟 3D Contribution Graph</h2>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mendarrr&bg_color=00203d&color=00a1e6&line=0aadff&point=050505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</br>
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=mendarrr&label=Profile%20Views&color=1&icon=6&pretty=true" />
