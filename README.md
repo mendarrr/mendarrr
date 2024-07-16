@@ -68,7 +68,8 @@
   <img src="https://github-trophies.vercel.app/?username=mendarrr&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="width:100%;"/>
 </div>
 
-<h2 align="center">🌟 3D Contribution Graph</h2>
+<h2 align="center">🌟3D Contribution Graph</h2>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mendarrr&bg_color=00203d&color=00a1e6&line=0aadff&point=050505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</br>
 
 <a href="https://visitcount.itsvg.in">
